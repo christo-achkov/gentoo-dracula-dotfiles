@@ -86,6 +86,6 @@ Install the Dracula extension.
 
 Contains the relevant parts of my `settings.json` file.
 
-## Folders 
+## folders 
 
 Papirus-Dark. Can be found here https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.
