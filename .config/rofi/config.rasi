@@ -5,10 +5,10 @@ configuration {
 }
 
 * {
-    font: "Ubuntu Condensed 14";
+    font: "agave Nerd Font 14";
     foreground: #f8f8f2;
     background-color: #282a36;
-    active-background: #6272a4;
+    active-background: #FF79C6;
     urgent-background: #ff5555;
     selected-background: @active-background;
     selected-urgent-background: @urgent-background;
@@ -19,7 +19,7 @@ configuration {
 
 #window {
     background-color: @background;
-    border:           1;
+    border:           3;
     border-radius: 6;
     border-color: @bordercolor;
     padding:          5;
